@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/malbon.test/static/css/main.aa5a2143.css",
+    "main.js": "/malbon.test/static/js/main.858b16bf.js",
+    "static/js/787.9fe3f908.chunk.js": "/malbon.test/static/js/787.9fe3f908.chunk.js",
+    "index.html": "/malbon.test/index.html",
+    "main.aa5a2143.css.map": "/malbon.test/static/css/main.aa5a2143.css.map",
+    "main.858b16bf.js.map": "/malbon.test/static/js/main.858b16bf.js.map",
+    "787.9fe3f908.chunk.js.map": "/malbon.test/static/js/787.9fe3f908.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa5a2143.css",
+    "static/js/main.858b16bf.js"
+  ]
+}
